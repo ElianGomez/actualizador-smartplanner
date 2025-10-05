@@ -1,0 +1,11 @@
+{
+  "version": "1.3.3",
+  "titulo": "Cambio en la distribucion del formulario de productos y mas seguridad en los formularios",
+  "size": "79.2 MB",
+  "fecha": "21/09/2025",
+  "changelog": "• Se ha modificado la distribucion y la forma visual del formulario de productos mas seguridad en los formularios al momento de guardar",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.3.3/Inventia_v1.3.3.zip",
+  "ejecutable": "INVENTIA.exe",
+  "lanzarArgs": "",
+  "preKill": ["INVENTIA"]
+}
