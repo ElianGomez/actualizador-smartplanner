@@ -4,8 +4,8 @@
   "size": "84.6 MB",
   "fecha": "18/09/2025",
   "changelog": "• Se ha creado una nueva funcionalidad para las consultas de jornada y se han corregido algunos errores",
-  "descarga": "https://github.com/ElianGomez/actualizador-smartplanner/releases/download/v1.1.1/Prueba_v1.1.1.zip",
-  "ejecutable": "PruebaActualizacion.exe",
+  "descarga": "https://github.com/ElianGomez/actualizador-smartplanner/releases/download/v1.1.1/SMARTPLANNER_v1.1.1.zip",
+  "ejecutable": "SMARTPLANNER.exe",
   "lanzarArgs": "",
-  "preKill": ["PruebaActualizacion"]
+  "preKill": ["SMARTPLANNER"]
 }
