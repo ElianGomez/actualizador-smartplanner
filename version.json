@@ -4,7 +4,7 @@
   "size": "92.32 MB",
   "fecha": "05/10/2025",
   "changelog": "• Actualizacion de inicializacion del sistema",
-  "descarga": "https://github.com/ElianGomez/actualizador-smartplanner/releases/download/v1.0.0/Smartplanner_v1.0.0.zip",
+  "descarga": "https://github.com/ElianGomez/actualizador-smartplanner/releases/download/v1.0.1/Smartplanner_v1.0.1.zip",
   "ejecutable": "SMARTPLANNER.exe",
   "lanzarArgs": "",
   "preKill": ["SMARTPLANNER"]
