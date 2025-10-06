@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
-  "titulo": "Inicializacion del sistema",
-  "size": "92.32 MB",
-  "fecha": "05/10/2025",
-  "changelog": "• Actualizacion de inicializacion del sistema",
+  "titulo": "Nueva funcionalidad y correcion de errores",
+  "size": "84.6 MB",
+  "fecha": "18/09/2025",
+  "changelog": "• Se ha creado una nueva funcionalidad para las consultas de jornada y se han corregido algunos errores",
   "descarga": "https://github.com/ElianGomez/actualizador-smartplanner/releases/download/v1.0.0/Smartplanner_v1.0.0.zip",
   "ejecutable": "SMARTPLANNER.exe",
   "lanzarArgs": "",
