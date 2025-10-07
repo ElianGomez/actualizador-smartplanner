@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0",
-  "titulo": "Inicializaciond de SMARTPLANNER",
-  "size": "93.2 MB",
-  "fecha": "18/09/2025",
-  "changelog": "• Inicializacion del proyecto SMARTPLANNER",
-  "descarga": "https://github.com/ElianGomez/actualizador-smartplanner/releases/download/v1.0.0/Smartplanner_v1.0.0.zip",
+  "version": "1.1.0",
+  "titulo": "Implementacion de ventanas de busqueda",
+  "size": "92.33 MB",
+  "fecha": "07/10/2025",
+  "changelog": "• Implementacion de ventanas secundarias de busqueda en algunos formualrios",
+  "descarga": "https://github.com/ElianGomez/actualizador-smartplanner/releases/download/v1.1.0/Smartplanner_v1.1.0.zip",
   "ejecutable": "SMARTPLANNER.exe",
   "lanzarArgs": "",
   "preKill": ["SMARTPLANNER"]
