@@ -1,10 +1,10 @@
 {
-  "version": "1.1.0",
-  "titulo": "Implementacion de ventanas de busqueda",
+  "version": "1.1.1",
+  "titulo": "Correccion de orden de los campos en el POA",
   "size": "92.33 MB",
   "fecha": "07/10/2025",
-  "changelog": "• Implementacion de ventanas secundarias de busqueda en algunos formualrios",
-  "descarga": "https://github.com/ElianGomez/actualizador-smartplanner/releases/download/v1.1.0/Smartplanner_v1.1.0.zip",
+  "changelog": "• Se ha corregido el orden de forma correcta de los campos de POA y Proyecto en el formulario del POA",
+  "descarga": "https://github.com/ElianGomez/actualizador-smartplanner/releases/download/v1.1.1/Smartplanner_v1.1.1.zip",
   "ejecutable": "SMARTPLANNER.exe",
   "lanzarArgs": "",
   "preKill": ["SMARTPLANNER"]
