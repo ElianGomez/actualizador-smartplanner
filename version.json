@@ -1,10 +1,10 @@
 {
-  "version": "1.1.1",
-  "titulo": "Correccion de orden de los campos en el POA",
-  "size": "92.33 MB",
-  "fecha": "07/10/2025",
-  "changelog": "• Se ha corregido el orden de forma correcta de los campos de POA y Proyecto en el formulario del POA",
-  "descarga": "https://github.com/ElianGomez/actualizador-smartplanner/releases/download/v1.1.1/Smartplanner_v1.1.1.zip",
+  "version": "1.1.2",
+  "titulo": "Correcion de errores y nuevo cifrado para claves",
+  "size": "92.34 MB",
+  "fecha": "09/10/2025",
+  "changelog": "• Se ha agregado formas para habilitar y deshabilitar campos al cargar informaciones a los formulario. Nueva forma de cifrado de claves",
+  "descarga": "https://github.com/ElianGomez/actualizador-smartplanner/releases/download/v1.1.2/Smartplanner_v1.1.2.zip",
   "ejecutable": "SMARTPLANNER.exe",
   "lanzarArgs": "",
   "preKill": ["SMARTPLANNER"]
