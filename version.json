@@ -1,10 +1,10 @@
 {
-  "version": "1.1.2",
-  "titulo": "Correcion de errores y nuevo cifrado para claves",
+  "version": "1.1.3",
+  "titulo": "Correcion de errores",
   "size": "92.34 MB",
-  "fecha": "09/10/2025",
-  "changelog": "• Se ha agregado formas para habilitar y deshabilitar campos al cargar informaciones a los formulario. Nueva forma de cifrado de claves",
-  "descarga": "https://github.com/ElianGomez/actualizador-smartplanner/releases/download/v1.1.2/Smartplanner_v1.1.2.zip",
+  "fecha": "08/10/2025",
+  "changelog": "• Correcion de algunos bindings en los formularios",
+  "descarga": "https://github.com/ElianGomez/actualizador-smartplanner/releases/download/v1.1.3/Smartplanner_v1.1.3.zip",
   "ejecutable": "SMARTPLANNER.exe",
   "lanzarArgs": "",
   "preKill": ["SMARTPLANNER"]
